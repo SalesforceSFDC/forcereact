@@ -5,6 +5,8 @@
 * [npm for forceios](https://www.npmjs.com/package/forceios)
 * [cocoapods - getting started](https://guides.cocoapods.org/using/getting-started.html)
 * [iCloud.arc.ARC](https://icloud.developer.apple.com/dashboard/#containers/iCloud.arc.ARC/environments/Production/api-access/)
+* [npm-developers Developer Guide](https://docs.npmjs.com/misc/developers#keeping-files-out-of-your-package)
+* [Salesforce Mobile Services Home > Resources](https://developer.salesforce.com/mobile/resources)
 
 ##
 This package has installed:
